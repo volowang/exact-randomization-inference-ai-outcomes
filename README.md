@@ -2,7 +2,7 @@
 
 This repository is a compact research prototype for finite-sample randomization inference on binary AI-system outcomes.
 
-It is motivated by Prof. Peng Zhang's work on fast exact confidence intervals for randomized experiments with binary outcomes. The goal here is not to reproduce the full paper. Instead, this project builds a small, inspectable inference engine for AI-system experiments where sample sizes are small and normal approximations can be fragile.
+The work is about fast exact confidence intervals for randomized experiments with binary outcomes. The goal here is not to reproduce the full paper. Instead, this project builds a small, inspectable inference engine for AI-system experiments where sample sizes are small and normal approximations can be fragile.
 
 ## Research Question
 
